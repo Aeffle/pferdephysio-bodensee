@@ -5304,8 +5304,20 @@ body {
 .cid-qCW3JabTia H2 {
   color: #fffaf5;
 }
-.cid-qCW3WJvlXJ {
+.cid-rOoeWhE5PP {
   padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #fffaf5;
+}
+.cid-rOoeWhE5PP .mbr-text,
+.cid-rOoeWhE5PP blockquote {
+  color: #767676;
+}
+.cid-rOoeWhE5PP .mbr-text P {
+  color: #3d1e00;
+}
+.cid-qCW3WJvlXJ {
+  padding-top: 15px;
   padding-bottom: 60px;
   background-color: #fffaf5;
 }
