@@ -3,7 +3,7 @@
     "name": "Pferdepysio Bodensee – Judith Stockburger",
     "currentPage": "Links.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 240,
+    "uniqCompNum": 241,
     "versionPublish": "4.9.6",
     "theme": {
       "name": "mobirise4",
@@ -8240,7 +8240,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fffaf5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><i>Alle Preise sind der im Land üblichen Verrechnungshöhe angepasst und richten sich nicht nach dem aktuellen Wechselkurs.<br></i><span style=\"font-size: 1rem;\"><i><br><br><br></i><b>Physiotherapie für Pferde<br></b></span><span style=\"font-size: 1rem;\">Physio-Check mit entsprechender Trainingsberatung*: €70 / CHF 100, ca 40min<br></span><span style=\"font-size: 1rem;\">Physiotherapeutische  Behandlung: € 100 / CHF 150, ca. 60-90min<br></span><span style=\"font-size: 1rem;\">falls angebracht und erwünscht inklusive Akupunktur.<br></span><span style=\"font-size: 1rem;\"><br><br><b>Huforthopädie<br></b></span><span style=\"font-size: 1rem;\">Preis pro Bearbeitung: € 40 / CHF 100<br></span><span style=\"font-size: 1rem;\"><br><br><b>Akupunktur Pferd<br></b></span><span style=\"font-size: 1rem;\">Preis pro Behandlung: € 85 / CHF 130<br></span><span style=\"font-size: 1rem;\">weitere Tierarten auf Anfrage<br></span><span style=\"font-size: 1rem;\"><br><br><b>Anfahrtskosten<br></b></span><span style=\"font-size: 1rem;\">Diese richten sich nach der Region. Bitte fragen Sie an.</span></p><div><br></div><div><br></div><div>*Einige Probleme können mittelfristig durch gezielte Übungen / Trainingsanpassungen behoben werden.</div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fffaf5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><i>Alle Preise sind der im Land üblichen Verrechnungshöhe angepasst und richten sich nicht nach dem aktuellen Wechselkurs.<br><br></i></p><p><span style=\"font-size: 1rem;\"><i><br></i><b>Physiotherapie für Pferde<br></b></span><span style=\"font-size: 1rem;\">Physio-Check mit entsprechender Trainingsberatung*: €70 / CHF 100, ca 40min<br></span><span style=\"font-size: 1rem;\">Physiotherapeutische  Behandlung: € 100 / CHF 150, ca. 60-90min<br></span><span style=\"font-size: 1rem;\">falls angebracht und erwünscht inklusive Akupunktur.<br></span></p><p><span style=\"font-size: 1rem;\">*Einige Probleme können mittelfristig durch gezielte Übungen / Trainingsanpassungen behoben werden.<br></span><b style=\"font-size: 1rem;\"><br>Huforthopädie<br></b><span style=\"font-size: 1rem;\">Preis pro Bearbeitung: € 40 / CHF 100<br></span><span style=\"font-size: 1rem;\"><br><b>Akupunktur Pferd<br></b></span><span style=\"font-size: 1rem;\">Preis pro Behandlung: € 85 / CHF 130<br></span><span style=\"font-size: 1rem;\">weitere Tierarten auf Anfrage<br></span><span style=\"font-size: 1rem;\"><br><b>Anfahrtskosten<br></b></span><span style=\"font-size: 1rem;\">Diese richten sich nach der Region. Bitte fragen Sie an.<br><br><br><b>Pferdewohlergehen.ch</b><br>Betriebe, die Mitglied im Verein \"Interessengemeinschaft zum Wohlergehen der Pferde\" sind, erhalten für Ihre Reitschulpferde Rabatt.&nbsp;</span></p><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qFNPTUszeK",
           "_anchor": "content1-36",
           "_protectedParams": [],
@@ -9331,10 +9331,13 @@
             },
             ".mbr-text DIV": {
               "color": "#3d1e00"
+            },
+            ".mbr-text P": {
+              "color": "#3d1e00"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fffaf5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><a href=\"https://www.pferdegesundheitschweiz.ch\" target=\"_blank\"><b>Diätetik und Phytotherapie</b></a><b style=\"font-size: 1rem;\"><a href=\"https://www.pferdegesundheitschweiz.ch\" target=\"_blank\">&nbsp;- Michaela von Zerssen</a><br></b><span style=\"color: rgb(61, 30, 0); font-size: 1rem;\">PferdeGesundheitSchweiz – Alles für eine gesunde Pferdefütterung von Kräutern bis Zusatzfutter</span></p><p></p><div>Kompetente Beratung bei Fütterungs- und Gesundheitsfragen</div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fffaf5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><a href=\"https://www.pferdegesundheitschweiz.ch\" target=\"_blank\"><b>Diätetik und Phytotherapie</b></a><span style=\"font-size: 1rem;\"><b style=\"font-weight: bold;\"><a href=\"https://www.pferdegesundheitschweiz.ch\" target=\"_blank\">&nbsp;<b>- Michaela von Zerssen</b></a>&nbsp;</b>Schweiz<br></span><span style=\"color: rgb(61, 30, 0); font-size: 1rem;\">PferdeGesundheitSchweiz – Alles für eine gesunde Pferdefütterung von Kräutern bis Zusatzfutter<br></span><span style=\"font-size: 1rem;\">Kompetente Beratung bei Fütterungs- und Gesundheitsfragen</span></p><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qGVdePpgsw",
           "_anchor": "content1-4x",
           "_protectedParams": [],
@@ -9355,10 +9358,13 @@
             },
             ".mbr-text DIV": {
               "color": "#3d1e00"
+            },
+            ".mbr-text": {
+              "color": "#3d1e00"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><a href=\"https://www.wolfsgeist.ch\" target=\"_blank\"><b>Wolfsgeist - Patricia Wegmann</b></a><div>Beratungen rund ums Pferd sowie Ausbildung und Weiterbildung von Pferd und Mensch</div><div>Verhaltenstherapie, Lernpsychologie, Boden- und Longenarbeit, Reitunterricht, Tierkommunikation, Therapeutische Arbeit</div><div>Ein absolut empfehlenswertes Gesamtpaket!</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b><a href=\"https://www.wolfsgeist.ch\" target=\"_blank\"><b>Wolfsgeist - Patricia Wegmann</b></a>&nbsp;</b>Schweiz<div>Beratungen rund ums Pferd sowie Ausbildung und Weiterbildung von Pferd und Mensch</div><div>Verhaltenstherapie, Lernpsychologie, Boden- und Longenarbeit, Reitunterricht, Tierkommunikation, Therapeutische Arbeit</div><div>Ein absolut empfehlenswertes Gesamtpaket!</div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qGVdfHgc8h",
           "_anchor": "content1-4y",
           "_protectedParams": [],
@@ -9458,13 +9464,35 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><a href=\"https://www.pias-pfotenschule.ch\" target=\"_blank\"><b>Pia´s Pfotenschule - Pia schwarzentrub </b></a><a href=\"https://www.pias-pfotenschule.ch\" target=\"_blank\"><b>Schweiz</b>&nbsp;</a><br><span style=\"font-size: 1rem;\"><a href=\"https://www.pias-pfotenschule.ch\" target=\"_blank\">DIE Familien- und Trickhundeschule im Thurgau. Mit großer Leidenschaft, liebevoller Konsequenz sowie immensem Wissen rund um den Hund und sein Lernverhalten.&nbsp;</a></span></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><a href=\"https://www.pias-pfotenschule.ch\" target=\"_blank\"><b>Pia´s Pfotenschule - Pia schwarzentrub </b></a><a href=\"https://www.pias-pfotenschule.ch\" target=\"_blank\">Schweiz&nbsp;</a><br><span style=\"font-size: 1rem;\"><a href=\"https://www.pias-pfotenschule.ch\" target=\"_blank\">DIE Familien- und Trickhundeschule im Thurgau. Mit großer Leidenschaft, liebevoller Konsequenz sowie immensem Wissen rund um den Hund und sein Lernverhalten.&nbsp;</a></span></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rXlkyFLpK9",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {},
           "_anchor": "content1-6n"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text P": {
+              "color": "#3d1e00"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#fffaf5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><a href=\"https://www.pferdewohlergehen.ch\" target=\"_blank\"><b>Pferdewohlergehen.ch</b></a><br><a href=\"https://www.pferdewohlergehen.ch\" target=\"_blank\">Der Verein \"Interessengemeinschaft zum Wohlergehen der Pferde\" arbeitet unter dem Motto \"Wissen wirkt Wunder\" für das Pferd. Unter Anderem ist es sein Ziel, pferdegerechte Reitschulen für Eltern sichtbar zu machen - ein nicht ganz einfaches Unterfangen.&nbsp;</a></p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rXlo4bq6Jz",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-6o"
         },
         {
           "_styles": {
