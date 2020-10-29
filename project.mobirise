@@ -1,10 +1,10 @@
 {
   "settings": {
     "name": "Pferdepysio Bodensee – Judith Stockburger",
-    "currentPage": "Links.html",
+    "currentPage": "kontakt.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 251,
-    "versionPublish": "4.9.6",
+    "versionPublish": "5.2.0",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -55,7 +55,9 @@
         "name": "Open Sans",
         "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i"
       }
-    ]
+    ],
+    "imageResize": true,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -8725,7 +8727,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fffaf5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Pferdephysio Bodensee<br></b><span style=\"font-size: 1rem;\">Judith Stockburger<br>Schiffländi 5<br>Postfach 18<br>8260 Stein am Rhein 2 Stadt</span></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fffaf5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Pferdephysio Bodensee<br></b><span style=\"font-size: 1rem;\">Judith Stockburger<br>Birkenhof<br>8253 Diessenhofen</span></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qGVbttEn8S",
           "_anchor": "content1-4w",
           "_protectedParams": [],
@@ -9351,11 +9353,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><a href=\"http://www.pferd-in-balance.ch\" target=\"_blank\">\n                </a><b><a href=\"http://www.pferd-in-balance.ch\" target=\"_blank\" class=\"text-danger\"><b> Pferd in Balance</b> Schweiz</a><br></b><a href=\"http://www.pferd-in-balance.ch\" target=\"_blank\" class=\"text-danger\">DER Pferdezahnmediziner. Einfühlsam, geduldig und mit seinem osteopathischen Hintergrundwissen eindeutig Wahl Nr.1!</a></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "sdduI1LWxW",
+          "_anchor": "content1-6y",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-6y"
+          "_params": {}
         },
         {
           "_styles": {
@@ -9427,11 +9429,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#fffaf5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b><a href=\"https://www.pias-pfotenschule.ch\" target=\"_blank\" class=\"text-danger\"><b>Pia's Pfotenschule</b> </a></b><a href=\"https://www.pias-pfotenschule.ch\" target=\"_blank\" class=\"text-danger\">Schweiz <br>DIE Familien- und Trickhundeschule im Thurgau. Mit großer Leidenschaft, liebevoller Konsequenz sowie immensem Wissen rund um den Hund und sein Lernverhalten.&nbsp;</a></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "sddsUTs059",
+          "_anchor": "content1-6x",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-6x"
+          "_params": {}
         },
         {
           "alias": false,
