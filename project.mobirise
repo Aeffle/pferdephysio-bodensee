@@ -67,7 +67,8 @@
         "meta_descr": "Pferdephysiotherapie, Therapie nach Dorn, Tierakupunktur, Tierheilpraktik, Problembezogene Trainingsunterstützung und -beratung, Unterstützung und Behandlung nach Unfällen, Operationen und zwischen Turnieren",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/pb-home-1.jpg"
       },
       "components": [
         {
@@ -10286,7 +10287,7 @@
         "meta_descr": "Website Generator Description",
         "title": "Magnetfeldtherapie",
         "order": 1,
-        "meta_image": "@PROJECT_PATH@/assets/images/pb-banner-4.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/equimag-magnetfeldtherapie-startseite_1920x1080_v3-1432x836.jpg"
       },
       "components": [
         {
