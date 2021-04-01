@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pferdepysio Bodensee – Judith Stockburger",
-    "currentPage": "index.html",
+    "currentPage": "kontakt.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 298,
     "versionPublish": "5.2.0",
@@ -57,7 +57,7 @@
       }
     ],
     "imageResize": true,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -9081,11 +9081,11 @@
           "_sourceTheme": "mobirise4",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#fffaf5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>\n                <b> <a href=\"https://www.reitlehre-horsemanship.de\" class=\"text-danger\" target=\"_blank\"><b>Sandra Freund - Equitation Horsemanship</b></a></b><br>Klassische Reitlehre am Bodensee - ganzheitliche Ausbildung für Pferd und Reiter<br>Individueller Reitunterricht, der sich nicht an ein Schema klammert, sondern Raum zur Entwicklung bietet.</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "stknQblCzQ",
+          "_anchor": "content1-89",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-89"
+          "_params": {}
         },
         {
           "alias": false,
