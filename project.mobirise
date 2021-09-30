@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Pferdepysio Bodensee – Judith Stockburger",
-    "currentPage": "seminare.html",
+    "currentPage": "Konditionen.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 298,
+    "uniqCompNum": 299,
     "versionPublish": "5.2.0",
     "theme": {
       "name": "mobirise4",
@@ -57,7 +57,7 @@
       }
     ],
     "imageResize": true,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
@@ -7882,7 +7882,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fffaf5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><i>&nbsp;Alle Preise sind der im Land üblichen Verrechnungshöhe angepasst und richten sich nicht nach dem aktuellen Wechselkurs.<br><br></i></p><p><span style=\"font-size: 1rem;\"><b>Physiotherapie für Pferde</b></span><span style=\"font-size: 1rem;\"><br></span><span style=\"font-size: 1rem;\">Physiotherapeutische  Behandlung: CHF 150 / € 100, ca. 90min<br>Hier wird aus dem Vollen geschöpft: Neben den klassischen Massagen und Dehnungen kommen je nach Bedarf Deines Tieres Dorntherapie, Triggerpunktmassagen, Faszientherapie, Akupunktur und Magnetfeldtherapie zum Einsatz.&nbsp;</span></p><p><span style=\"font-size: 1rem;\"><b>Magnetfeldtherapie</b><br>Preis pro Behandlung: CHF 80 / € 40,&nbsp;<br>Als zusätzliche Behandlung z. Bsp. nach der Huforthopädie: CHF 40 / € 20</span></p><p><b style=\"font-size: 1rem;\">Huforthopädie<br></b><span style=\"font-size: 1rem;\">Preis pro Bearbeitung: CHF 120<i><br></i>Optional mit Magnetfeldtherapie buchbar: zzgl. CHF 40,- / €20<br></span><span style=\"font-size: 1rem;\"><br><b>Akupunktur Pferd<br></b></span><span style=\"font-size: 1rem;\">Preis pro Behandlung: CHF 130 / € 100<br></span><span style=\"font-size: 1rem;\">Optional mit Magnetfeldtherapie buchbar: zzgl. CHF 40,- / €20<br></span><span style=\"font-size: 1rem;\"><br><b>Anfahrtskosten<br></b></span><span style=\"font-size: 1rem;\">Diese richten sich nach der Region. Bitte fragen Sie an.<br><br><br><b>Pferdewohlergehen.ch</b><br>Betriebe, die Mitglied im Verein \"Interessengemeinschaft zum Wohlergehen der Pferde\" sind, erhalten für Ihre Reitschulpferde Rabatt.&nbsp;</span></p><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fffaf5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><i>&nbsp;Alle Preise sind der im Land üblichen Verrechnungshöhe angepasst und richten sich nicht nach dem aktuellen Wechselkurs.<br><br></i></p><p><span style=\"font-size: 1rem;\"><b>Physiotherapie für Pferde</b></span><span style=\"font-size: 1rem;\"><br></span><span style=\"font-size: 1rem;\">Physiotherapeutische  Behandlung: CHF 150 / € 100, ca. 90min<br>Hier wird aus dem Vollen geschöpft: Neben den klassischen Massagen und Dehnungen kommen je nach Bedarf Deines Tieres Dorntherapie, Triggerpunktmassagen, Faszientherapie, Akupunktur und Magnetfeldtherapie zum Einsatz.&nbsp;</span></p><p><span style=\"font-size: 1rem;\"><b>Magnetfeldtherapie</b><br>Preis pro Behandlung: CHF 80 / € 40,&nbsp;<br>Als zusätzliche Behandlung z. Bsp. nach der Huforthopädie: CHF 40 / € 20</span></p><p><b style=\"font-size: 1rem;\">Huforthopädie<br></b><span style=\"font-size: 1rem;\">Preis pro Bearbeitung: CHF 120<i><br></i>Optional mit Magnetfeldtherapie buchbar: zzgl. CHF 40,- / €20<br></span><span style=\"font-size: 1rem;\"><br><b>Akupunktur Pferd<br></b></span><span style=\"font-size: 1rem;\">Preis pro Behandlung: CHF 130 / € 100</span><span style=\"font-size: 1rem;\"><br>Optional mit Magnetfeldtherapie buchbar: zzgl. CHF 40,- / €20</span></p><p><span style=\"font-size: 1rem;\"><br><b>Anfahrtskosten<br></b></span><span style=\"font-size: 1rem;\">Diese richten sich nach der Region. Bitte fragen Sie an.<br><br><br><b>Pferdewohlergehen.ch</b><br>Betriebe, die Mitglied im Verein \"Interessengemeinschaft zum Wohlergehen der Pferde\" sind, erhalten für Ihre Reitschulpferde Rabatt.&nbsp;</span></p><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qFNPTUszeK",
           "_anchor": "content1-36",
           "_protectedParams": [],
