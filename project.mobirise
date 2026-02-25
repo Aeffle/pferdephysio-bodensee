@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Pferdepysio Bodensee – Judith Stockburger",
-    "currentPage": "index.html",
+    "currentPage": "Links.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 532,
+    "uniqCompNum": 533,
     "versionPublish": "5.6.0",
     "theme": {
       "name": "mobirise4",
@@ -9152,6 +9152,29 @@
           "_params": {}
         },
         {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#3d1e00"
+            }
+          },
+          "_name": "content1",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#fffaf5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>\n                <b><a href=\"https://www.reitlehre-horsemanship.de\" class=\"text-danger\" target=\"_blank\"> <b>Sandra Freund - Equitation Horsemanship</b></a>&nbsp;</b><br>Klassische Reitlehre am Bodensee - ganzheitliche Ausbildung für Pferd und Reiter<br>Individueller Reitunterricht, der sich nicht an ein Schema klammert, sondern Raum zur Entwicklung bietet.</p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "stknQblCzQ",
+          "_anchor": "content1-89",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
@@ -9170,7 +9193,36 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fffaf5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><a href=\"https://www.pferdegesundheitschweiz.ch\" class=\"text-danger\" target=\"_blank\" style=\"font-size: 1rem; background-color: rgb(255, 250, 245);\"><b>Diätetik und Phytotherapie</b></a><span style=\"font-size: 1rem;\">&nbsp;- Michaela von Zerssen, Schweiz<br></span><a href=\"https://www.pferdegesundheitschweiz.ch\" target=\"_blank\" class=\"text-danger\" style=\"font-size: 1rem; background-color: rgb(255, 250, 245);\">PferdeGesundheitSchweiz – Alles für eine gesunde Pferdefütterung von Kräutern bis Zusatzfutter</a><br><a href=\"https://www.pferdegesundheitschweiz.ch\" target=\"_blank\" class=\"text-danger\" style=\"font-size: 1rem; background-color: rgb(255, 250, 245);\">Kompetente Beratung bei Fütterungs- und Gesundheitsfragen</a></p><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b><a href=\"https://www.pferdbestimmt.de\" class=\"text-danger\" target=\"_blank\"><b>Anne Meinert - Huforthopädie und Training</b></a>&nbsp;</b><br>Pferdbestimmt - Lernverhalten, Regulationsmechanismen und Nervensystem. Sie unterstützt Pferdemenschen dabei, ihre Pferde entspannter durch den Alltag zu begleiten.</p><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-es",
+          "_isUserblock": true,
+          "_cid": "vcfBdj1lGK",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text B": {
+              "color": "#3d1e00"
+            },
+            ".mbr-text DIV": {
+              "color": "#3d1e00"
+            },
+            ".mbr-text P": {
+              "color": "#3d1e00"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fffaf5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b><span style=\"font-size: 1rem; background-color: rgb(255, 250, 245);\"><a href=\"https://www.pferdegesundheitschweiz.ch\" class=\"text-danger\" target=\"_blank\"><b>Michaela von Zerssen</b> <b>-&nbsp;Diätetik und Phytotherapie</b></a></span><span style=\"font-size: 1rem;\"><br></span></b><a href=\"https://www.pferdegesundheitschweiz.ch\" target=\"_blank\" class=\"text-danger\" style=\"font-size: 1rem; background-color: rgb(255, 250, 245);\">PferdeGesundheitSchweiz – Alles für eine gesunde Pferdefütterung von Kräutern bis Zusatzfutter</a><br><a href=\"https://www.pferdegesundheitschweiz.ch\" target=\"_blank\" class=\"text-danger\" style=\"font-size: 1rem; background-color: rgb(255, 250, 245);\">Kompetente Beratung bei Fütterungs- und Gesundheitsfragen</a></p><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qGVdePpgsw",
           "_anchor": "content1-4x",
           "_protectedParams": [],
@@ -9197,32 +9249,9 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b><a href=\"https://www.wolfsgeist.ch\" target=\"_blank\"><b>Wolfsgeist - Patricia Wegmann</b>&nbsp;</a></b><a href=\"https://www.wolfsgeist.ch\" target=\"_blank\" class=\"text-danger\">Schweiz</a><div><a href=\"https://www.wolfsgeist.ch\" target=\"_blank\" class=\"text-danger\">Beratungen rund ums Pferd sowie Ausbildung und Weiterbildung von Pferd und Mensch</a></div><div><a href=\"https://www.wolfsgeist.ch\" target=\"_blank\" class=\"text-danger\">Verhaltenstherapie, Lernpsychologie, Boden- und Longenarbeit, Reitunterricht, Tierkommunikation, Therapeutische Arbeit</a></div><div><a href=\"https://www.wolfsgeist.ch\" target=\"_blank\">Ein absolut empfehlenswertes Gesamtpaket!</a></div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><a href=\"https://www.wolfsgeist.ch\" target=\"_blank\" class=\"text-danger text-primary\"></a><a href=\"https://www.wolfsgeist.ch\" class=\"text-danger\" target=\"_blank\"><b>Patricia Wegmann&nbsp;- Wolfsgeist</b></a><div><a href=\"https://www.wolfsgeist.ch\" target=\"_blank\" class=\"text-danger\">Beratungen rund ums Pferd sowie Ausbildung und Weiterbildung von Pferd und Mensch</a></div><div><a href=\"https://www.wolfsgeist.ch\" target=\"_blank\" class=\"text-danger\">Verhaltenstherapie, Lernpsychologie, Boden- und Longenarbeit, Reitunterricht, Tierkommunikation, Therapeutische Arbeit</a></div><div><a href=\"https://www.wolfsgeist.ch\" target=\"_blank\">Ein absolut empfehlenswertes Gesamtpaket!</a></div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qGVdfHgc8h",
           "_anchor": "content1-4y",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text": {
-              "color": "#3d1e00"
-            }
-          },
-          "_name": "content1",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#fffaf5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>\n                <b> <a href=\"https://www.reitlehre-horsemanship.de\" class=\"text-danger\" target=\"_blank\"><b>Sandra Freund - Equitation Horsemanship</b></a></b><br>Klassische Reitlehre am Bodensee - ganzheitliche Ausbildung für Pferd und Reiter<br>Individueller Reitunterricht, der sich nicht an ein Schema klammert, sondern Raum zur Entwicklung bietet.</p></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "stknQblCzQ",
-          "_anchor": "content1-89",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -9242,7 +9271,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b><a href=\"https://www.pias-pfotenschule.ch\" target=\"_blank\" class=\"text-danger\"><b>Pia's Pfotenschule</b> </a></b><a href=\"https://www.pias-pfotenschule.ch\" target=\"_blank\" class=\"text-danger\">Schweiz <br>DIE Familien- und Trickhundeschule im Thurgau. Mit großer Leidenschaft, liebevoller Konsequenz sowie immensem Wissen rund um den Hund und sein Lernverhalten.&nbsp;</a></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#fffaf5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b><a href=\"https://www.pias-pfotenschule.ch\" target=\"_blank\" class=\"text-danger\"><b>Pia's Pfotenschule</b></a></b><a href=\"https://www.pias-pfotenschule.ch\" target=\"_blank\" class=\"text-danger\"><br>DIE Familien- und Trickhundeschule im Thurgau. Mit großer Leidenschaft, liebevoller Konsequenz sowie immensem Wissen rund um den Hund und sein Lernverhalten.&nbsp;</a></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "sddsUTs059",
           "_anchor": "content1-6x",
           "_protectedParams": [],
