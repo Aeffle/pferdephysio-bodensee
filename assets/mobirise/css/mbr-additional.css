@@ -2390,6 +2390,11 @@ section.lazy-placeholder:after {
   color: #3d1e00;
   text-align: left;
 }
+.cid-vhY8dgWyqY {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/equus-caballus-kopie-891x789.png");
+}
 .cid-vcp44GNj7c {
   padding-top: 60px;
   padding-bottom: 90px;
@@ -12716,6 +12721,50 @@ section.lazy-placeholder:after {
 .cid-vhHpEkwDEB .card-title,
 .cid-vhHpEkwDEB .card-img {
   color: #3d1e00;
+}
+.cid-vhY8JfVHRZ {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #3d1e00;
+}
+.cid-vhY8JfVHRZ h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-vhY8JfVHRZ p {
+  color: #767676;
+  text-align: left;
+  margin-bottom: 0;
+}
+.cid-vhY8JfVHRZ .card-img {
+  text-align: left;
+  -webkit-flex: 1 0 auto;
+  flex: 1 0 auto;
+  width: auto;
+}
+.cid-vhY8JfVHRZ .card-img span {
+  font-size: 72px;
+  color: #ff3366;
+}
+.cid-vhY8JfVHRZ .card-box {
+  padding-left: 1rem;
+  word-break: break-word;
+}
+@media (max-width: 991px) {
+  .cid-vhY8JfVHRZ .card-img {
+    text-align: left;
+    padding-bottom: 0.75rem;
+  }
+  .cid-vhY8JfVHRZ .card-box {
+    padding-left: 0;
+  }
+}
+.cid-vhY8JfVHRZ P {
+  color: #fffaf5;
+}
+.cid-vhY8JfVHRZ .card-title,
+.cid-vhY8JfVHRZ .card-img {
+  color: #fffaf5;
 }
 .cid-vhOpegSQHg {
   padding-top: 60px;
