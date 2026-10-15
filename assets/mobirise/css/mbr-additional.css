@@ -4063,8 +4063,20 @@ section.lazy-placeholder:after {
 .cid-vaRlfZ8fz3 H2 {
   color: #fffaf5;
 }
-.cid-qCXdOITGQ3 {
+.cid-vy7CxUvwP2 {
   padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #fffaf5;
+}
+.cid-vy7CxUvwP2 .mbr-text,
+.cid-vy7CxUvwP2 blockquote {
+  color: #767676;
+}
+.cid-vy7CxUvwP2 .mbr-text {
+  color: #3d1e00;
+}
+.cid-qCXdOITGQ3 {
+  padding-top: 0px;
   padding-bottom: 60px;
   background-color: #fffaf5;
 }
